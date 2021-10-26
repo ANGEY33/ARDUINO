@@ -1,6 +1,6 @@
 #   INTERFAZ DE NAVE ESPACIAL
 
-## Rersumem
+## Rersumen
 
 
 ## Montaje
