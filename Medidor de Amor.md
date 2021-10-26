@@ -1,4 +1,4 @@
-#  LOVE-O-METER
+# LOVE-O-METER
 
 # Introducción
 
