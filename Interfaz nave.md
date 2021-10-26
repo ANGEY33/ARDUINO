@@ -6,7 +6,11 @@
 
 Primero emos conectado las conexiones de 5V y de la tierra a el Arduino,emos colocado dos LEDs rojos y el LED verde en el protoboard.
 
-Despues emos conectado el cátado de cada LED a la toma de tierra a través de una resistencia de 220 Ohmios seguidamente  
+Despues emos conectado el cátado de cada LED a la toma de tierra a través de una resistencia de 220 Ohmios, seguidamente conectamos el ańodo del LED verde a la clavija 3.
+
+Para acavar conectamos los ánodos de los LEDs rojos a las clavijas 4 y 5, respectivamente.
+
+
 
 ## Código 
 
