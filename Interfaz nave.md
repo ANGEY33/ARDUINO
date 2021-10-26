@@ -16,4 +16,4 @@ Despues emos conectado el cátado de cada LED a la toma de tierra a través de u
 
 Vamos a añadir un boton al pin 3 de tal forma que solo cuando se pulse el led 3 se encenderá.
 
-El resto del proyecto (hardware y software) es el mismo.  
+El resto del proyecto (hardware y software) es el mismo. 
