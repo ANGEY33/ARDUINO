@@ -13,7 +13,9 @@ Tambien añadimos una resistencia de 10 k-ohm de la toma de tierra a la calvija 
 
 
 ## Código 
-
+Este es el codigo de interfaz de nave espacial 
+ 
+ 
 ## Añadir a un botón por hardware
 
 Vamos a añadir un boton al pin 3 de tal forma que solo cuando se pulse el led 3 se encenderá.
