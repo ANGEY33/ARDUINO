@@ -77,6 +77,8 @@ Da igual si la resistencia va detras p delante de LED. Contraemos 2 LEDs, uno al
 
 Al principio no funcionaba, por que si pones tilde no funciona
 
+![imagen](https://user-images.githubusercontent.com/90753298/140056485-20d87b78-d248-4952-a95b-cff8487f1e67.png)
+
 https://github.com/ANGEY33/Arduino/blob/main/1basico_ino.ino
 
 # Ejercicio 1
