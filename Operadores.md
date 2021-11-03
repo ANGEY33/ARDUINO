@@ -76,7 +76,7 @@ Da igual si la resistencia va detras p delante de LED. Contraemos 2 LEDs, uno al
 
 Para este ejercicio me es vasado en Interfaz de ordenadores.
 
-Hemos 
+(https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2010-57-41.png)
 
 
 
