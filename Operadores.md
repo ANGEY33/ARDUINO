@@ -107,3 +107,7 @@ https://github.com/ANGEY33/Arduino/blob/main/operadores2.ino.ino
 # Ejercicio 3
 
 ![imagen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2013-13-10.png)
+
+Este es el código:
+
+https://github.com/ANGEY33/Arduino/blob/main/operadores3.ino.ino
