@@ -31,4 +31,4 @@ digitalWrite (2, HIGH);
 
 digitalWrite (3, LOW);
 
-digitalWrite (44, LOW);
+digitalWrite (4, LOW);
