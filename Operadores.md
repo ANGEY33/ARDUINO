@@ -17,11 +17,11 @@ Se puede ordenar infinitas veces.
 
 Digital Write es una función que nos pide un número de pin y el valor HIGH (1) o LOW (0).
 
-Si el valor es HIGH, la placa suministrara 5V en ese pin.
+- Si el valor es HIGH, la placa suministrara 5V en ese pin.
 
-Si el valor es LOW (o 0), la placa suministrara 0V en ese pin.
+- Si el valor es LOW (o 0), la placa suministrara 0V en ese pin.
 
-Si hay 5V, se activaran los circuitos * si es 0Vno se activaran.
+- Si hay 5V, se activaran los circuitos * si es 0Vno se activaran.
 
 * Depende del hardware y como esté conectado.
 
