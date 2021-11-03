@@ -49,3 +49,31 @@ digitalWrite (3, HIGH);
 
 digitalWrite (4, HIGH);
 
+# Ejercicio
+
+Vamos a conectsr 2 botones y 2 LEDs 
+
+Haremos diferentes programas con diferencias comportamientos.
+
+Para poner un boton necesitamos poner una resistencia de 10000 (ohmnios), estas son las que tienen cuerpo beige y una linea naranja.
+
+Pin _____ Pulsasdor __ GND
+
+
+5V _____ Resistencia 10k ohmnios
+
+Esquema de botón "Por defecto de arriba" o "Pulled - HIGH"
+
+Conectaremos 2 botónes. Uno al pin 2 y otro pin 3. Para poner un LED necesitamos una resistencia de 220 ohmnios las de cuerpo azul.
+
+Hay que tener en cuenta la polaridad del LED. La pata mas corta va hacia el GND (o 0V) y la larga hacia el voltaje.
+
+PIN -->---///---GND
+
+   LED 220
+   
+Da igual si la resistencia va detras p delante de LED. Contraemos 2 LEDs, uno al pin 4 y otro al pin 5.    
+   
+
+
+
