@@ -83,7 +83,8 @@ Al principio no funcionaba, por que si pones tilde no funciona
 
 Encender los 2 LEDs solo si pulsamos los 2 botones.
 
-![imagen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2010-57-41.png)
+![imagen](https://user-images.githubusercontent.com/90753298/140055897-070f5dfd-bc74-4f35-a1bc-83daf181efa8.png)
+
 
 Este es el código:
 
