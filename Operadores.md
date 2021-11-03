@@ -74,7 +74,9 @@ PIN -->---///---GND
    
 Da igual si la resistencia va detras p delante de LED. Contraemos 2 LEDs, uno al pin 4 y otro al pin 5.
 
+Para este ejercicio me es vasado en Interfaz de ordenadores.
 
+Hemos 
 
 
 
