@@ -1,5 +1,5 @@
 
-- Operaciones
+# Operaciones
 
 IF (varaible y valor) Si(True)No(True)
 
