@@ -85,6 +85,10 @@ Encender los 2 LEDs solo si pulsamos los 2 botones.
 
 ![imagen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2010-57-41.png)
 
+Este es el código:
+
+https://github.com/ANGEY33/Arduino/blob/main/Operadores1.ino.ino
+
 # Ejercicio 2 
 
 Encender los 2 LEDs si pulsamos cualquiera de los botones si no apagamos
