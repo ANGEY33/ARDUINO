@@ -81,6 +81,15 @@ Al principio no funcionaba, porque si pones tilde no funciona
 
 ![imagen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2010-57-41.png)
 
+# Ejercicio 1
+
+Encender los 2 LEDs solo si pulsamos los 2 botones.
+
+Operadores1.INO
+
+# Ejercicio 2 
+
+Encender los 2 LEDs si pulsamos cualquiera de los botones si no apagamos
 
 
 
