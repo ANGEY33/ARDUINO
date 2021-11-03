@@ -78,6 +78,7 @@ Para este ejercicio me es vasado en Interfaz de ordenadores.
 
 Al principio no funcionaba, porque si pones tilde no funciona
 
+
 ![imagen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-11-03%2010-57-41.png)
 
 
