@@ -79,6 +79,8 @@ Al principio no funcionaba, por que si pones tilde no funciona
 
 ![imagen](https://user-images.githubusercontent.com/90753298/140056485-20d87b78-d248-4952-a95b-cff8487f1e67.png)
 
+Este es el código:
+
 https://github.com/ANGEY33/Arduino/blob/main/1basico_ino.ino
 
 # Ejercicio 1
@@ -96,6 +98,7 @@ https://github.com/ANGEY33/Arduino/blob/main/Operadores1.ino.ino
 
 Encender los 2 LEDs si pulsamos cualquiera de los botones si no apagamos
 
+Este es el código:
 
-
+https://github.com/ANGEY33/Arduino/blob/main/operadores2.ino.ino
 
