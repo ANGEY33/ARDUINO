@@ -60,5 +60,5 @@ RAW sensor values = valores del sensor sin tratar .
  
  Hemos comenzado copiando unos codigos en la pizzara de la version uno la cual seria esta en particular 
  
- [1](https://github.com/DavidMenCam/Arduino/tree/main/Arduino%20%20version%201)
+ [ Pruba 1](https://github.com/DavidMenCam/Arduino/tree/main/Arduino%20%20version%201)
  
