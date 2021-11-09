@@ -1,7 +1,7 @@
-# PWM ( Pulse Width Modulation)
+# PWM ( Pulse Width Modulation).
 Modulacion por ancho de pulsos.
 
-### Problema
+### Problema.
 
 Tengo un Arduino que suministra 5V a un LED.
 
@@ -9,7 +9,7 @@ Tengo un Arduino que suministra 5V a un LED.
 
 - A menor intesidad de corrinete (a) el LED brillara menos.
 
-(ver ley de OHM)
+(ver ley de OHM).
 
 Si subimos o bajamos el voltaje haremos lo mismo con la intensidad suponiendo que la resistencia del circuito es la misma.
 
@@ -17,7 +17,7 @@ Si conecto un LED con su resistencia de 220 ohmnios a un voltaje de 5V o de 3´3
 
 El LED brillara mas con 5V y menos con 3´3V.
 
-### Que es un pulso 
+### Que es un pulso. 
 
 Un pulso electrico es una señal de voltaje medida en el tiempo.
 
@@ -25,34 +25,34 @@ Los ojos humanos podemos detectar cambios hasta entorno a 12Hz a partir de 24-30
 
 Los pulsos modulados crean la ilusion de voltajes intermedios entre 0 y 5V para ello usan pulsos muy cortos.
 
-Que usaremos a traves de la funcion Analog Write(Pin,0-255); esta funcion solo funcionara en pines con PWM
+Que usaremos a traves de la funcion Analog Write(Pin,0-255); esta funcion solo funcionara en pines con PWM.
 
-Los pines con PWm estan marcados por el simbolo ~ (la tilde de la eñe)
+Los pines con PWm estan marcados por el simbolo ~ (la tilde de la eñe).
 
-La funcion no pide dos cosas, por un lado (y lo primero) 
+La funcion no pide dos cosas, por un lado (y lo primero). 
 
-- Numero de PIN
+- Numero de PIN.
 
 - Un numero entre 0 y 255
 
-0 --> 0% de voltaje
+0 --> 0% de voltaje.
 
-255 --> 100% de voltaje (5V)
+255 --> 100% de voltaje (5V).
 
-int = integez. Significa que nuestra variable es un tipo de dato numerico no decimal le asigna un espacio en memoria
+int = integez. Significa que nuestra variable es un tipo de dato numerico no decimal le asigna un espacio en memoria.
 
 Otros tipos:
 
-- stzing = cadena de caracteres
+- stzing = cadena de caracteres.
 
-- bool = booleano si es verdadero (true) si es falso (false)
+- bool = booleano si es verdadero (true) si es falso (false).
 
-- chaz = unico caracter
+- chaz = unico caracter.
 
-- float = numeros decimales
+- float = numeros decimales.
 
-RAW sensor values = valores del sensor sin tratar 
+RAW sensor values = valores del sensor sin tratar .
 
-\t = tabulacion caracteres especiales
+\t = tabulacion caracteres especiales.
 
 
