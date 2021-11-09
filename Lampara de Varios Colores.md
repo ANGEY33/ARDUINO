@@ -1,5 +1,4 @@
 # PWM ( Pulse Width Modulation)
-
 Modulacion por ancho de pulsos
 
 ### Problema
@@ -17,3 +16,7 @@ Si subimos o bajamos el voltaje haremos lo mismo con la intensidad suponiendo qu
 Si conecto un LED con su resistencia de 220 ohmnios a un voltaje de 5V o de 3´3V?
 
 El LEDbrillara mas con 5V y menos con 3´3V
+
+### Que es un pulso 
+
+Un pulso electrico es una señal de voltaje medida en el tiempo.
