@@ -26,3 +26,15 @@ Los ojos humanos podemos detectar cambios hasta entorno a 12Hz a partir de 24-30
 Los pulsos modulados crean la ilusion de voltajes intermedios entre 0 y 5V para ello usan pulsos muy cortos.
 
 Que usaremos a traves de la funcion Analog Write(Pin,0-255); esta funcion solo funcionara en pines con PWM
+
+Los pines con PWm estan marcados por el simbolo ~ ( la tilde de la eñe)
+
+La funcion no pide dos cosas, por un lado (y lo primero) 
+
+- Numero de PIN
+
+- Un numero entre 0 y 255
+
+0 --> 0% de voltaje
+
+255 --> 100% de voltaje (5V)
