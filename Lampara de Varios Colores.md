@@ -65,4 +65,4 @@ RAW sensor values = valores del sensor sin tratar .
  
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211103140539.jpg)
 
-imagen de ![ Miguel Angel ] [(https://github.com/miguelamgel1107/Arduino/blob/main/operadores.md)
+imagen de [Miguel Angel] [(https://github.com/miguelamgel1107/Arduino/blob/main/operadores.md)
