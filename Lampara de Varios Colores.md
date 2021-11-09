@@ -55,8 +55,6 @@ RAW sensor values = valores del sensor sin tratar .
 
 \t = tabulacion caracteres especiales.
 
- 
-Este proyecto lo realice con Abril      
 ### Errores.
 
 No nos funcionaba por que no habiamos puesto el codigo entero.
