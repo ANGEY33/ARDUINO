@@ -57,6 +57,9 @@ RAW sensor values = valores del sensor sin tratar .
 
  
 Este proyecto lo realice con Abril      
+### Errores.
+
+No nos funcionaba por que no habiamos puesto el codigo entero.
 
  [Este es el codigo](https://github.com/jjksimp/arduino/blob/main/Lampara_varios_colores.ino)
  
