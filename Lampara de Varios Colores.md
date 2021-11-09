@@ -59,6 +59,9 @@ RAW sensor values = valores del sensor sin tratar.
 
 Este proyecto lo hice con Abril.
 
+Este proyecto es el mismo circuito que hicimos el dia anterior con algunas variaciones para poder ajustar los colores.
+
+Hemos cambiado los fototransistores por unos potenciadores para poder ajustar la potencia de cada color.
 
 ### Errores.
 
