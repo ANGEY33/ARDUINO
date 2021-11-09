@@ -55,5 +55,10 @@ RAW sensor values = valores del sensor sin tratar .
 
 \t = tabulacion caracteres especiales.
 
-
-
+ 
+ * Vesion 1
+ 
+ Hemos comenzado copiando unos codigos en la pizzara de la version uno la cual seria esta en particular 
+ 
+ [1](https://github.com/DavidMenCam/Arduino/tree/main/Arduino%20%20version%201)
+ 
