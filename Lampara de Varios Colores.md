@@ -51,9 +51,11 @@ Otros tipos:
 
 - float = numeros decimales.
 
-RAW sensor values = valores del sensor sin tratar .
+RAW sensor values = valores del sensor sin tratar.
 
 \t = tabulacion caracteres especiales.
+
+##  Lampara de colores.
 
 ### Errores.
 
