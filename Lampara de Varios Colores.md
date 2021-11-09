@@ -56,7 +56,7 @@ RAW sensor values = valores del sensor sin tratar .
 \t = tabulacion caracteres especiales.
 
  
-Vesion 1
+Este prollecto lo realice con Abril      
 
  [ Prueba 1](https://github.com/jjksimp/arduino/blob/main/Lampara_varios_colores.ino)
  
