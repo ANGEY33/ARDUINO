@@ -39,6 +39,8 @@ La funcion no pide dos cosas, por un lado (y lo primero)
 
 255 --> 100% de voltaje (5V)
 
+---
+
 int = integez. Significa que nuestra variable es un tipo de dato numerico no decimal le asigna un espacio en memoria
 
 Otros tipos:
@@ -54,5 +56,7 @@ Otros tipos:
 RAW sensor values = valores del sensor sin tratar 
 
 \t = tabulacion caracteres especiales
+
+---
 
 
