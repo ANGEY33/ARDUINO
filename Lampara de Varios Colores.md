@@ -62,3 +62,7 @@ RAW sensor values = valores del sensor sin tratar .
  
  [ Prueba 1](https://github.com/jjksimp/arduino/blob/main/Lampara_varios_colores.ino)
  
+ 
+![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211103140539.jpg)
+
+imagen de ![(https://github.com/miguelamgel1107/Arduino/blob/main/operadores.md)
