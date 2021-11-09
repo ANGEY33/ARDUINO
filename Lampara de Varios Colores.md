@@ -41,7 +41,7 @@ La funcion no pide dos cosas, por un lado (y lo primero)
 
 int = integez. Significa que nuestra variable es un tipo de dato numerico no decimal le asigna un espacio en memoria
 
-otros tipos:
+Otros tipos:
 
 - stzing = cadena de caracteres
 
