@@ -27,7 +27,7 @@ Los pulsos modulados crean la ilusion de voltajes intermedios entre 0 y 5V para 
 
 Que usaremos a traves de la funcion Analog Write(Pin,0-255); esta funcion solo funcionara en pines con PWM
 
-Los pines con PWm estan marcados por el simbolo ~ ( la tilde de la eñe)
+Los pines con PWm estan marcados por el simbolo ~ (la tilde de la eñe)
 
 La funcion no pide dos cosas, por un lado (y lo primero) 
 
@@ -38,8 +38,6 @@ La funcion no pide dos cosas, por un lado (y lo primero)
 0 --> 0% de voltaje
 
 255 --> 100% de voltaje (5V)
-
-...
 
 int = integez. Significa que nuestra variable es un tipo de dato numerico no decimal le asigna un espacio en memoria
 
@@ -53,4 +51,10 @@ Otros tipos:
 
 - float = numeros decimales
 
-...
+RAW sensor values = valores del sensor sin tratar 
+
+\t = tabulacion caracteres especiales
+
+
+
+
