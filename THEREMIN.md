@@ -48,5 +48,5 @@ El codigo es el mismo
 
 Boton por software
 
-
+Este es el codigo: https://github.com/ANGEY33/Arduino/blob/main/theremin_variable2.ino
 
