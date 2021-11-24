@@ -4,7 +4,7 @@
 
 [github del profesor](https://github.com/d-prieto/)
 
-## INDICE
+# INDICE
 
 [PRIMERA PRUEBA](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/primera%20prueba.md)
 
