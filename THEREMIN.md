@@ -15,7 +15,7 @@ La figura1 representa la diferencia entre los pulsos emitidos por analogWrite() 
 
 la funcion de setup se ejecuta una sola vez
 
-
+### Theremin
 
 Primero he creado una variable para almacenar el valor analogRead() de fotoelectrica. Luego he creado variables para los valores minimos y maximos.
 He configurado el valor de sensorLow a 1023 y el valor de sensorHigh a 0.
