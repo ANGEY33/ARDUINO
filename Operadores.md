@@ -72,7 +72,7 @@ PIN -->---///---GND
 
    LED 220
    
-Da igual si la resistencia va detras p delante de LED. Contraemos 2 LEDs, uno al pin 4 y otro al pin 5.
+Da igual si la resistencia va detras o delante de LED. Contraemos 2 LEDs, uno al pin 4 y otro al pin 5.
 
 
 Al principio no funcionaba, por que si pones tilde no funciona
