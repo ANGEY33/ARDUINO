@@ -38,8 +38,15 @@ Este es el codigo: https://github.com/ANGEY33/Arduino/blob/main/THEREMIN.ino
 
 ### Variacion 1
 
+Boton por hardware
+
 En esta variante he implementado un boton para controlar cundo quiera que suene.
 
 El codigo es el mismo
 
 ### Variacion 2
+
+Boton por software
+
+
+
