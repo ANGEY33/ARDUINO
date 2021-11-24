@@ -1,6 +1,7 @@
 # Theremin.
 
-´´´ Utilicaremos un fototransitor y unpiezoelectrico.
+´´´
+Utilicaremos un fototransitor y unpiezoelectrico.
 
 Construiremos un theremin que funciona con luz.
 
@@ -15,7 +16,8 @@ La figura1 representa la diferencia entre los pulsos emitidos por analogWrite() 
 
 la funcion de setup se ejecuta una sola vez.
 
-millis = nº milisegundos desde que enciendes el Arduino ´´´
+millis = nº milisegundos desde que enciendes el Arduino
+´´´
 
 
 
