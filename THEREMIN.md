@@ -12,3 +12,6 @@ Una antena controla la frecuencia del sonido y la otra controla el volumen.
 
 Arduino no puede replicar exactamente los sonidos de este instruemnto, es posible emularlos usando la fincion tone().
 La figura1 representa la diferencia entre los pulsos emitidos por analogWrite() y tone(), permite que un transductor se mueva hacia delante y hacia atras a diferentes velocidades.
+
+## codigo
+
