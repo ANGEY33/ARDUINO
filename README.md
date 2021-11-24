@@ -6,12 +6,12 @@
 
 # INDICE
 
-[PRIMERA PRUEBA](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/primera%20prueba.md)
+1.[PRIMERA PRUEBA](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/primera%20prueba.md)
 
-[INTERFAZ NAVE](https://github.com/ANGEY33/Arduino/blob/main/Interfaz%20nave.md)
+2[INTERFAZ NAVE](https://github.com/ANGEY33/Arduino/blob/main/Interfaz%20nave.md)
 
-[MEDIDOR AMOR](https://github.com/ANGEY33/Arduino/blob/main/Medidor%20de%20Amor.md)
+3.[MEDIDOR AMOR](https://github.com/ANGEY33/Arduino/blob/main/Medidor%20de%20Amor.md)
 
-[LAMPARA COLORES](https://github.com/ANGEY33/Arduino/blob/main/Lampara%20de%20Varios%20Colores.md)
+4.[LAMPARA COLORES](https://github.com/ANGEY33/Arduino/blob/main/Lampara%20de%20Varios%20Colores.md)
 
-[OPERDADORES](https://github.com/ANGEY33/Arduino/blob/main/Operadores.md)
+5.[OPERDADORES](https://github.com/ANGEY33/Arduino/blob/main/Operadores.md)
