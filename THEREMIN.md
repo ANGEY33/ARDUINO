@@ -50,3 +50,4 @@ Boton por software
 
 Este es el codigo: https://github.com/ANGEY33/Arduino/blob/main/theremin_variable2.ino
 
+### codigo snippet boton malote de chechiliaa
