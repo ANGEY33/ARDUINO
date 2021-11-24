@@ -83,3 +83,7 @@ void checkButton(){
   }
 
 }
+
+Snippet (SNIP) --> Es un fragmento de codigo que no funciona por si mismo, que sirve para unafuncion concreta.
+
+Los snippet se copian, se pegan y normalmente se adaptan al codigo a mano por el programa.
