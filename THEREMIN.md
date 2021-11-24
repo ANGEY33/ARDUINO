@@ -36,8 +36,10 @@ Luego use un delay() durente durante 10 milisegundos.
 
 Este es el codigo: https://github.com/ANGEY33/Arduino/blob/main/THEREMIN.ino
 
-### Varieante
+### Variacion 1
 
-En esta variante he implementado un boton para controlar cundo quieres que suene.
+En esta variante he implementado un boton para controlar cundo quiera que suene.
 
 El codigo es el mismo
+
+### Variacion 2
