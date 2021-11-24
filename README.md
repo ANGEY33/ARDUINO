@@ -2,8 +2,6 @@
 
 ## Bienvenidos
 
-[github del profesor](https://github.com/d-prieto/)
-
 # INDICE
 
 [1.PRIMERA PRUEBA](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/primera%20prueba.md)
