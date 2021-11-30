@@ -14,4 +14,6 @@
 
 * codigo original.
 
+Este es el código de Abril original: https://github.com/jjksimp/arduino/blob/main/interfaz_de_nave_espacial2.ino
+
 Después añadimos en un pin libre un botón.
