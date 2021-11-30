@@ -4,7 +4,7 @@
 
 # INDICE
 
-[1er TRIMESTER](https://github.com/ANGEY33/1er-TRIMESTRE)
+[1er TRIMESTRE](https://github.com/ANGEY33/1er-TRIMESTRE)
 
 [1.PRIMERA PRUEBA](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/primera%20prueba.md)
 
