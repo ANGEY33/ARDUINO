@@ -69,7 +69,6 @@ No nos funcionaba por que no habiamos puesto el codigo entero.
 
  [Este es el codigo](https://github.com/jjksimp/arduino/blob/main/Lampara_varios_colores.ino)
  
- ----
  
  Aqui se ve como se monta el circuito.
  
@@ -77,4 +76,4 @@ No nos funcionaba por que no habiamos puesto el codigo entero.
 
 Imagen de [Miguel Angel](https://github.com/miguelamgel1107/Arduino/blob/main/operadores.md)
 
-----
+
