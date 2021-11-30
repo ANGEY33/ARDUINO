@@ -18,4 +18,4 @@ Este es el código de Abril original: https://github.com/jjksimp/arduino/blob/ma
 
 Después añadimos en un pin libre un botón.
 
-https://mail.google.com/mail/u/0?ui=2&ik=6ed6f8c2b4&attid=0.1&permmsgid=msg-f:1714670485054215748&th=17cbbbb8b080d644&view=att&disp=safe&realattid=f_kv7tzvpn0
+
