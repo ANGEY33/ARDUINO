@@ -53,7 +53,6 @@ Este es el codigo: https://github.com/ANGEY33/Arduino/blob/main/theremin_variabl
 ## codigo snippet boton malote de chechiliaa
 
 ---
-
 //Colocar en la sección de variables globales.
 int switchState = 0;
 bool isTheButtonBeingPressed = false;
@@ -89,5 +88,4 @@ void checkButton(){
 Snippet (SNIP) --> Es un fragmento de codigo que no funciona por si mismo, que sirve para unafuncion concreta.
 
 Los snippet se copian, se pegan y normalmente se adaptan al codigo a mano por el programa.
-
 ---
