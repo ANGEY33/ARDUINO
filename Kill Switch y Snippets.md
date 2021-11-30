@@ -4,14 +4,14 @@
 
  Vamos a añadir una funcionalidad a un proyecto anterior.
  
- En el gruopo estoy con [Abril](https://github.com/jjksimp/) y vamos a hacer el proyecto [Interfaz Nave](https://github.com/ANGEY33/Arduino/blob/main/Interfaz%20nave.md) añadiendo un boton .
+ En el gruopo estoy con [Abril](https://github.com/jjksimp/) y vamos a hacer el proyecto [Interfaz Nave](https://github.com/ANGEY33/Arduino/blob/main/Interfaz%20nave.md) añadiendo un boton que anule todo.
  
  Primero montamos el proyecto original
  
-*enlace
+* enlace
 
-*foto
+* foto
 
-*codigo original
+* codigo original
 
 Después añadimos en un pin libre un botón
