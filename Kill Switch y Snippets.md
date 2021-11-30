@@ -1,4 +1,4 @@
- ## Kill Switch y Snippets
+ ## *Kill Switch y Snippets.*
  
  [THEREMIN ](https://github.com/ANGEY33/Arduino/blob/main/THEREMIN.ino)
 
@@ -6,12 +6,12 @@
  
  En el gruopo estoy con [Abril](https://github.com/jjksimp/) y vamos a hacer el proyecto [Interfaz Nave](https://github.com/ANGEY33/Arduino/blob/main/Interfaz%20nave.md) añadiendo un boton que anule todo.
  
- Primero montamos el proyecto original
+ Primero montamos el proyecto original.
  
-* enlace
+* enlace.
 
-* foto
+* foto.
 
-* codigo original
+* codigo original.
 
-Después añadimos en un pin libre un botón
+Después añadimos en un pin libre un botón.
