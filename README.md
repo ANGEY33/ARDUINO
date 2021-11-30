@@ -19,3 +19,5 @@
 [6.OPERDADORES](https://github.com/ANGEY33/Arduino/blob/main/Operadores.md)
 
 [7.THEREMIN](https://github.com/ANGEY33/Arduino/blob/main/THEREMIN.md)
+
+[8.KILL SWITCH Y SNIPPETS](https://github.com/ANGEY33/Arduino/blob/main/Kill%20Switch%20y%20Snippets.md)
