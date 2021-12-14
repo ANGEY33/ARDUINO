@@ -1,4 +1,4 @@
-# Instumento de teclado 🎹.
+# Instumento de teclado 🎹
 
 ## Qué hace el programa.
 
