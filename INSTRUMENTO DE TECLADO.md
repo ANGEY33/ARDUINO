@@ -1,3 +1,35 @@
 # Instumento de teclado.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![imagen](https://github.com/ANGEY33/Arduino/blob/main/IMG_20211214_122225.jpg)
