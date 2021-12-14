@@ -19,6 +19,14 @@ Despus no funcionaba porque el boton estaba defectuoso y le e tenido que dar la 
 
 ## Variante 1
 
+## Que hace el programa.
+
+El programa hace lo mismo pero le he añadido dos botones mas.
+
+## Proceso.
+
+Me he alludodo de el github de Miguel Angel, ha sido facil porque lo ha documentado muy bien. 
+
 ## Código.
 [Este es el código](https://github.com/ANGEY33/Arduino/blob/main/instrumento_de_teclado_variante_1.ino)
 
