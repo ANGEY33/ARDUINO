@@ -8,7 +8,7 @@
 ---
 [1.PRIMERA PRUEBA](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/primera%20prueba.md)
 ---
-[2INTERFAZ NAVE](https://github.com/ANGEY33/Arduino/blob/main/Interfaz%20nave.md)
+[2.INTERFAZ NAVE](https://github.com/ANGEY33/Arduino/blob/main/Interfaz%20nave.md)
 ---
 [3.MEDIDOR AMOR](https://github.com/ANGEY33/Arduino/blob/main/Medidor%20de%20Amor.md)
 ---
