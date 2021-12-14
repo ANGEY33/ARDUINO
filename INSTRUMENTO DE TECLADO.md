@@ -31,6 +31,8 @@ Me he alludodo de el github de Miguel Angel, ha sido facil porque lo ha document
 
 El boton 2 y 5 no funcionavan y se ha rroto el protoboard.
 
+![imagen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202021-12-14%2013-52-58.png)
+
 ## Código.
 [Este es el código](https://github.com/ANGEY33/Arduino/blob/main/instrumento_de_teclado_variante_1.ino)
 
