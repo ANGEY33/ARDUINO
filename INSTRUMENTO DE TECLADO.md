@@ -16,3 +16,6 @@ Despus no funcionaba porque el boton estaba defectuoso y le e tenido que dar la 
 
 ## Foto de el resultado.
 ![imagen](https://github.com/ANGEY33/Arduino/blob/main/IMG_20211214_122225.jpg)
+
+## Variante 1
+
