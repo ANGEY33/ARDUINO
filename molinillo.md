@@ -18,4 +18,7 @@ El Arduino solo puede subministrar 40 miliamperios.
 
 ### Los motores son un tipo de dispositivo inductivo. Cuando a un motor se le suministra electricidad una tensa bobina dentro de la carcasa de cobre crea un campo magnetico,este camo hace que el eje gire.
 
-## [Este es codigo](https://github.com/ANGEY33/Arduino/blob/main/molinillo.ino) 
+---
+En este proyecto yo he echo una variable,cambiando el pin 2 por el 3 yel 9 por el 8  
+---
+[Este es codigo](https://github.com/ANGEY33/Arduino/blob/main/molinillo.ino) 
