@@ -26,3 +26,7 @@
 ---
 [10.VILLANCICO](https://github.com/ANGEY33/Arduino/blob/main/Vilancico.md)
 ---
+[11.MOLINILLO](https://github.com/ANGEY33/Arduino/blob/main/molinillo.md)
+---
+[12.ZOOTROPO](https://github.com/ANGEY33/Arduino/blob/main/molinillo.md)
+---
