@@ -12,4 +12,8 @@ Por varias razones controlar motores con arduino es mas complicado que controlar
 Los motores mecesitan mas corriente del que pueden subministrar las clavijas de salida del arduino.
 En segundo lugar los motores pueden generar su propia corriente a traves de un proceso llamado induccion.
 
+El Arduino solo puede subministrar 40 miliamperios.
+
+
+
 
