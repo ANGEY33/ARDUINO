@@ -2,7 +2,7 @@
 
 ## Bienvenidos a mis proyectos de Arduino
 
-# INDICE
+## INDICE
 
 [1er TRIMESTRE](https://github.com/ANGEY33/1er-TRIMESTRE)
 ---
