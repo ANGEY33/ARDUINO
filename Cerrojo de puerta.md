@@ -1,6 +1,6 @@
 # CERROJO DE PUERTA
 
----
+
 INGREDIENTES.
 ---
 - 1 Boton.
@@ -11,11 +11,12 @@ INGREDIENTES.
 - 1 Condensador de 100uF.
 - 1 Piezo.
 - 1 Servomotor.
-
 ---
 ERRORES.
 ---
-No 
+No havia conectado el boton al pin 2.
+
+
 
 Cuando el piezo está fijado a una superficie sólida que pueda vibrar,como una mesa,el Arduino puede notar la intensidad de un golpe sobre la mesa.
 
