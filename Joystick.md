@@ -9,7 +9,7 @@
 
 
 
-![imajen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202022-01-26%2013-49-20.png)
+
 
 
 
