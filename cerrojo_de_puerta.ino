@@ -103,6 +103,8 @@ void loop(){
 
             myServo.write(0);
 
+            numberOfKnocks = 0;
+
             delay(20);
 
             digitalWrite(greenLed, HIGH);
