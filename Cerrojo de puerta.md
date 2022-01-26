@@ -33,3 +33,5 @@ Las funciones aceptan argumentos y devuelven valores, en este caso le he submini
 
 [Este es el codigo](https://github.com/ANGEY33/Arduino/blob/main/cerrojo_de_puerta.ino) 
 ---
+
+![imagen](https://github.com/ANGEY33/Arduino/blob/main/IMG_0042.jpg)
