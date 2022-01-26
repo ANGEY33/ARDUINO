@@ -5,7 +5,12 @@ INGREDIENTES
 ---
 - 1 Boton.
 - 3 LEDs, 1.rojo, 1.verde y 1.amarillo.
-
+- 1 Resistencia de 10 kiloohomnios.
+- 3 Resistencias de 220 ohmnios.
+- 1 Resistencia de 1 megohmnios.
+- 1 Condensador de 100uF.
+- 1 Piezo.
+- 1 Servomotor.
 
 
 Cuando el piezo está fijado a una superficie sólida que pueda vibrar,como una mesa,el Arduino puede notar la intensidad de un golpe sobre la mesa.
