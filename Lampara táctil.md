@@ -1,9 +1,12 @@
 # LAMPARA TACTIL
 
+---
+INGREDIENTES
 
-
-
-
+- 1 LED
+- 1 Resistencia de 220 ohmnios
+- 1 Resistencia de 1 megohmnios
+- Papel de aluminio
 
 
 
