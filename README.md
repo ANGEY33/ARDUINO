@@ -32,3 +32,5 @@
 ---
 [13.CERROJO DE PUERTA](https://github.com/ANGEY33/Arduino/blob/main/Cerrojo%20de%20puerta.md)
 ---
+[14.LAMPARA TACTIL](https://github.com/ANGEY33/Arduino/blob/main/Lampara%20t%C3%A1ctil.md)
+---
