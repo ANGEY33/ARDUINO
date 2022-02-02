@@ -46,3 +46,5 @@ En esta captura se puede ver que funciona perfectamente.
 
 ![imajen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202022-02-02%2009-37-40.png)
 
+[Codigo variante](https://github.com/ANGEY33/Arduino/blob/main/Joystick.ino)
+
