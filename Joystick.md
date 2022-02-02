@@ -21,3 +21,7 @@ SW -> Switch. Este es el botón. Al estar ya integrado se puede conectar directa
 
 
 
+![imajen](https://github.com/ANGEY33/Arduino/blob/main/Captura%20de%20pantalla%20de%202022-02-02%2009-37-40.png)
+
+
+
