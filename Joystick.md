@@ -20,16 +20,16 @@ SW -> Switch. Este es el botón. Al estar ya integrado se puede conectar directa
 
 El joystck funciono a la perfeccion con el codigo de David, y el montaje fue sencillo.
 
+
 - El GND lo conecto a el ground del Arduino.
 
 - El 5V lo conecto al 5V del arduino.
-
+ 
 - La conexión a VRx la conecto al pin analógico A0.
 
 - La conexión a VRy la conecto  al pin analógico A1.
 
--El SW lo conecto al pin 3.
-
+- El SW lo conecto al pin 3.
 
 
 
