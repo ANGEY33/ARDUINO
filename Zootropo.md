@@ -10,3 +10,5 @@ Los puentes H son un tipo de compomemte conocido como un circuito integrado (CI)
 
 
 [Este es el codigo](https://github.com/ANGEY33/Arduino/blob/main/molinillo.ino.ino)
+
+![imajen](https://github.com/Samael696/arduino/blob/main/IMG_20220119_121031.jpg?raw=true)
