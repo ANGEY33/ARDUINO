@@ -38,3 +38,5 @@
 ---
 [16.KN-015](https://github.com/ANGEY33/Arduino/blob/main/KY-015.md)
 ---
+[17.BOLA DE CRISTAL](https://github.com/ANGEY33/Arduino/blob/main/Bola%20de%20Cristal.md)
+---
