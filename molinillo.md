@@ -22,3 +22,6 @@ El Arduino solo puede subministrar 40 miliamperios.
 En este proyecto yo he echo una variable,cambiando el pin 2 por el 3 yel 9 por el 8  
 ---
 [Este es codigo](https://github.com/ANGEY33/Arduino/blob/main/molinillo.ino) 
+
+
+![imajen](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220119_101936.jpg)
